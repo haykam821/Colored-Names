@@ -1,0 +1,22 @@
+{
+	"schemaVersion": 1,
+	"id": "colorednames",
+	"version": "1.0.0",
+	"name": "Colored Names",
+	"description": "Gives each player a consistent default username color.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Colored-Names#readme",
+		"issues": "https://github.com/haykam821/Colored-Names/issues"
+	},
+	"mixins": [
+		"colorednames.mixin.json"
+	],
+	"license": "MIT",
+	"icon": "assets/colorednames/icon.png",
+	"depends": {
+		"fabricloader": ">=0.4.0"
+	}
+}
