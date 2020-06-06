@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "colorednames",
-	"version": "1.0.0",
+	"version": "${version}",
 	"name": "Colored Names",
 	"description": "Gives each player a consistent default username color.",
 	"authors": [
